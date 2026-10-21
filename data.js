@@ -1,8 +1,3 @@
-/* =====================================================
-   DATA.JS  –  satu-satunya file yang perlu kamu edit.
-   Foto taruh di folder "foto/", lalu tulis path-nya di sini.
-   Kalau file foto tidak ditemukan, otomatis muncul placeholder.
-   ===================================================== */
 
 const DATA = {
   namaku: "Nakula",
@@ -422,19 +417,19 @@ const DATA = {
   catatan: 
 [
   {
-    judul: "wislissss",
+    judul: "dianuin",
     tanggal: "Kamis, 15 Oktober 2026",
     isi: "- beli rak kecil buat meja\n- beli galon\n- ganti sprei\n- cari tempat makan murah sekitar kampus\n- nabung buat sepatu baru"
   },
   {
     judul: "evaluasi diri",
     tanggal: "Senin, 12 Oktober 2026",
-    isi: "aku harus berani nolak, kalo gamau ya bilang gamau. jangan maksa kerjain semuanya sendiri.\n beli ksk ah abis ini"
+    isi: "aku harus berani nolak, kalo gamau ya bilang gamau. jangan maksa kerjain semuanya sendiri.\n\nbeli ksk ah abis ini"
   },
   {
     judul: "pengeluaran oktober",
     tanggal: "Sabtu, 10 Oktober 2026",
-    isi: "Uang makan: catat.\nTransportasi: catat.\nKopi dan jajan: PLEASE DICATAT.\nPrint materi: catat.\nPengeluaran impulsif: JANGAN diulaangggg nakuullllll!!!!.\n\nnakula, bulan jangan sampai akhir bulan hidup dari mi instan dan penyesalan (walaupun pasti ada dewa yang masakin)"
+    isi: "Uang makan: catat di sps.\nTransportasi: catat di sps.\nKopi dan jajan: PLEASE DICATATT.\nPrint materi: catat di sps.\nPengeluaran impulsif: JANGAN diulaangggg nakuullllll!!!!.\n\nnakula, bulan ini jangan sampai akhir bulan hidup dari mi instan dan penyesalan (walaupun pasti ada dewa yang masakin)"
   },
   {
     judul: "d",
@@ -445,11 +440,6 @@ const DATA = {
     judul: "rencana akhir pekan",
     tanggal: "Jumat, 2 Oktober 2026",
     isi: "- beresin kamar kos\n- nyicil proposal penelitian\n- beli bahan makanan\n- cari suasana baru buat belajar\n- telepon rumah\n- kalau semua selesai, boleh rebahan tanpa mikirin deadline"
-  },
-  {
-    judul: "survival guide",
-    tanggal: "Selasa, 1 September 2026",
-    isi: "1. Jangan menunda baca jurnal.\n2. Simpan file tugas dengan nama yang masuk akal.\n3. Jangan jadi anggota kelompok yang cuma bilang 'siap'.\n4. Biasakan cek kalender akademik dan LMS.\n5. Jangan lupa makan.\n6. Kuliah bukan lomba siapa yang paling sibuk.\n7. Tetap punya waktu buat orang-orang yang penting.\n\nanjay kaya orang bener"
   },
 ],
 
@@ -471,7 +461,7 @@ const DATA = {
   { nama: "Bima", jenis: "tak terjawab", jam: "Minggu" }
 ],
 
-  /* ---------- PESAN (SMS/iMessage): bentuknya sama seperti chats ---------- */
+  /* ---------- PESAN (SMS/iMessage) ---------- */
   
 pesan: [
   {
@@ -577,8 +567,6 @@ pesan: [
 ],
 
 
-  /* ---------- APP TEMPLATE LAIN ----------
-     Semua pakai format: ikon (emoji), judul, ket (teks kecil), isi (teks saat diklik, boleh kosong) */
   email: [
     { ikon: "✉️", judul: "Selamat datang", ket: "tim@contoh.com · 08:00", isi: "Halo Nakula,\n\nIni contoh isi email. Ganti di data.js." }
   ],
