@@ -4,7 +4,6 @@ const DATA = {
 
   jam: "auto",
 
-  // Wallpaper: isi path foto, contoh "foto/wallpaper.jpg". Kosong = gradasi bawaan.
   wallpaper: "foto/wallpaper.jpg",
   kameraVideo: "foto/kamera.mp4",
 
@@ -342,7 +341,7 @@ const DATA = {
         belumDibaca: 1,
         pesan: [
             { tanggal: "Senin, 19 Oktober 2026" },
-            { dari: "dia", teks: "Halo Kak Nakula, maaf mengganggu malam-malam. Ini aku Rani dari divisi sponsorship sempro kemarin", jam: "20.15" },
+            { dari: "dia", teks: "Halo Kak Nakula, maaf mengganggu malam-malam. Ini aku Rani dari divisi sponsorship kemarin", jam: "20.15" },
             { dari: "aku", teks: "eh iya malam Rani, gak ganggu kok santai aja. Ada apa ya?", jam: "20.20" },
             { dari: "dia", teks: "Mau nanya laporan pertanggungjawaban (LPJ) keuangan yang bagian dana usaha udah masuk ke kakak belum ya? Takutnya terlewat", jam: "20.21" },
             { dari: "aku", teks: "coba aku cek file drive dulu ya, kemarin kayaknya udah dikirim rekapnya sama bendahara", jam: "20.25" },
