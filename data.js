@@ -2,7 +2,6 @@
 const DATA = {
   namaku: "Nakula",
 
-  // Jam di status bar: "9:41" (tetap, ala Apple) atau "auto" (jam asli)
   jam: "auto",
 
   // Wallpaper: isi path foto, contoh "foto/wallpaper.jpg". Kosong = gradasi bawaan.
