@@ -1,16 +1,4 @@
-/* =====================================================
-   DATA3.JS – Lockscreen, Kalender, dan aplikasi X.
-   Dimuat setelah data2.js. Semua isi di sini contoh,
-   ganti sesukamu.
-   ===================================================== */
 Object.assign(DATA, {
-
-  /* ---------- LOCKSCREEN ----------
-     aktif: false = langsung masuk ke home tanpa kunci
-     pin  : 4 atau 6 angka (jumlah titik mengikuti panjang PIN)
-     tanggal: kosongkan = tanggal hari ini otomatis
-     notif: notifikasi di layar kunci. app = id ikon:
-            wa, x, pesan, mail, telepon, kalender, dll          */
   kunci: {
     aktif: true,
     jam: "auto",
