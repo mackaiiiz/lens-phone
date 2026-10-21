@@ -1,16 +1,4 @@
-/* =====================================================
-   DATA2.JS – isi untuk app Setelan, Peta, dan Mail.
-   Dimuat setelah data.js, jadi data lama dengan nama
-   yang sama (setelan, email) otomatis tergantikan.
-   ===================================================== */
 Object.assign(DATA, {
-
-  /* ---------- SETELAN ----------
-     toggle: true/false = tombol geser (Mode Pesawat, dll)
-     nilai : teks abu-abu di kanan (contoh "Rumah", "87%")
-     anak  : kalau diisi, baris bisa dibuka jadi halaman baru
-             { judul, toggle, kepala, daftar:[...], pilih:"..." }
-     warna : warna kotak ikon (kode hex)                       */
   setelan: {
     profil: { nama: "Nakula", ket: "Apple ID, iCloud+, Media & Pembelian", foto: "" },
     grup: [
@@ -49,11 +37,6 @@ Object.assign(DATA, {
     ]
   },
 
-  /* ---------- PETA ----------
-     gambar : (opsional) screenshot peta asli, misal "foto/peta.png".
-              Kosong = peta gambaran bawaan.
-     x, y   : posisi pin di peta, 0–100 (persen dari kiri / atas)
-     lokasiku: titik biru posisimu                              */
   peta: {
     gambar: "",
     lokasiku: { x: 50, y: 52 },
