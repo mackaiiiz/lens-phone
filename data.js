@@ -262,7 +262,7 @@ const DATA = {
         ]
     },
     {
-        nama: "Panitia Acara — Divisi Acara",
+        nama: "Panitia Divisi Acara",
         foto: "foto/grup_panitia.jpg",
         belumDibaca: 0,
         pesan: [
@@ -338,21 +338,6 @@ const DATA = {
         ]
     },
     {
-        nama: "+62 821-4450-xx89",
-        foto: "foto/default.jpg",
-        belumDibaca: 2,
-        pesan: [
-            { tanggal: "Minggu, 18 Oktober 2026" },
-            { dari: "dia", teks: "Posisi dimana Na? Mau nitip tugas pak Budi bisa gak plis tugas nomor 3 buntu banget otak gw 😭", jam: "21.00" },
-            { dari: "dia", teks: "Naaa plis tolongin anak yang kesusahan ini", jam: "21.05" },
-            { dari: "aku", teks: "wah maap banget baru pegang hp lagi abis darurat nugas luar", jam: "22.10" },
-            { dari: "aku", teks: "coba kirim foto soalnya ke sini, ntar kalau aku ngerti aku bantu jelasin", jam: "22.11" },
-            { dari: "dia", teks: "WAAAH ASIKKK, sebentar gw fotoin ya soalnya", jam: "22.12" },
-            { dari: "dia", teks: "IMG_20261018_221230.jpg", jam: "22.13" },
-            { dari: "aku", teks: "oh inii ikutin ppt ajaa", jam: "22.15" },
-        ]
-    },
-    {
         nama: "+62 813-7721-xx10",
         foto: "foto/default.jpg",
         belumDibaca: 1,
@@ -364,7 +349,7 @@ const DATA = {
             { dari: "aku", teks: "coba aku cek file drive dulu ya, kemarin kayaknya udah dikirim rekapnya sama bendahara", jam: "20.25" },
             { dari: "aku", teks: "eh iya ini udah masuk kok foldernya, aman ya ran!", jam: "20.28" },
             { dari: "dia", teks: "Okayyy. Makasih banyak ya kak Nakula atas bantuannya!", jam: "20.29" },
-            { dari: "aku", teks: "sama-sama Rani, good job ya buat proker kemarin", jam: "20.30" },
+            { dari: "aku", teks: "sama-sama Raniii", jam: "20.30" },
         ]
     },
     {
